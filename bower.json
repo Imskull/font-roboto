@@ -1,9 +1,9 @@
 {
   "name": "font-roboto",
   "version": "1.0.1",
-  "description": "An HTML import for Roboto",
+  "description": "empty font-robot for offline apps",
   "authors": [
-    "The Polymer Authors"
+    "Imskull"
   ],
   "keywords": [
     "font",
@@ -15,5 +15,6 @@
   },
   "main": "roboto.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/Imskull/font-roboto/"
+  "homepage": "https://github.com/Imskull/font-roboto/",
+  "ignore": {}
 }
